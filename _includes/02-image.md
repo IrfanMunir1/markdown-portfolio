@@ -1,1 +1,1 @@
-[git image example](https://octodex.github.com/nuxtocat/)
+![new Image](https://octodex.github.com/images/Terracottocat_Single.png)
